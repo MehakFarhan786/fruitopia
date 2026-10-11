@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+.ss {
+    color: red;
+    text-size-adjust: large;
+
+}
+
+nav {
+    padding: 30px 70px;
+    font-size: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+    position: relative;
+}
+
+.me {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.did {
+    padding-left: 500px;
+}
+
+.qq {
+    
+    cursor: pointer;
+    font-size: 19px;
+}
+
+.ww {
+    padding-left: 30px;
+    cursor: pointer;
+    font-size: 19px;
+}
+
+.ee {
+    padding-left: 30px;
+    cursor: pointer;
+    font-size: 19px;
+}
+
+.rr {
+    padding-left: 30px;
+    cursor: pointer;
+
+}
+
+.tt {
+    padding-left: 30px;
+    cursor: pointer;
+
+}
+
+.yy {
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+img {
+    height: 450px;
+    float: right;
+    margin-top: 30px;
+
+
+}
+
+.xx {
+    color: red;
+    height: 100px;
+}
+
+input {
+
+
+
+    width: 100%;
+    height: 100%;
+
+    padding: 0 45px 0 15px;
+
+    border: 1px solid #dddddd;
+    border-radius: 25px;
+
+    outline: none;
+
+    font-size: 15px;
+
+    background-color: #ffffff;
+    width: 400px;
+    height: 45px;
+
+    position: relative;
+
+    margin-bottom: 35px;
+}
+
+.ll {
+    color: red;
+
+}
+
+.dog {
+    position: absolute;
+
+    left: 70px;
+    top: 140px;
+
+    z-index: 5;
+}
+
+/* Main Heading */
+
+.oil {
+    font-size: 80px;
+
+    color: #333333;
+
+    margin-bottom: 10px;
+}
+
+.xx {
+    color: #ff315c;
+}
+
+
+/* Subheading */
+
+.dog h2 {
+    font-size: 30px;
+
+    color: #555555;
+
+    font-weight: 350px;
+}
+
+
+.ll {
+    color: #ff315c;
+}
+
+.dog h3 {
+    padding-top: 50px;
+    color: #555555d1;
+}
+
+.in {
+
+
+
+
+    background-color: #ff315c;
+    color: white;
+    padding: 12px 30px;
+    border: 2px solid #ff315c;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.on {
+    background-color: white;
+    color: #ff315c;
+    padding: 12px 30px;
+    border: 2px solid #ff315c;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pin {
+    margin-top: 60px;
+}
